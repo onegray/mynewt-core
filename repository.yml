@@ -56,6 +56,9 @@ repo.versions:
     "1.8-latest": "1.8.0"
     "1.9-latest": "1.9.0"
 
+    "dev": "dev"
+
+
 repo.newt_compatibility:
     # Allow all versions for 0.0.0.  This is a workaround to prevent a warning
     # from being displayed when newt doesn't know which version of the repo is
